@@ -1,5 +1,5 @@
-# Sprits Villa 
- Sprits Villa offer you the convenience of shopping for everything that you need for your home - be it fresh fruits & vegetables, rice, dals, oil, packaged food, dairy item, frozen, pet food, household cleaning items & personal care products from a single virtual store.
+# Spirits Villa 
+ Spirits Villa offer you the convenience of shopping for everything that you need for your home - be it fresh fruits & vegetables, rice, dals, oil, packaged food, dairy item, frozen, pet food, household cleaning items & personal care products from a single virtual store.
 
 <h3>Live Demo Link https://natural-volcano-6886-sy8i.vercel.app/ </h3>
 
