@@ -6,7 +6,7 @@
 
 
  <h1>Home Page</h1>
-    <img src="https://i.postimg.cc/DwQGG2Yq/Screenshot-from-2023-02-27-12-23-15.png" alt="">
+    <img src="https://i.postimg.cc/LXVPnS56/Screenshot-from-2023-03-07-14-09-40.png" alt="">
   <h1>Signup Page </h1>
     <img src="https://i.postimg.cc/qqtn6y9R/Screenshot-from-2023-02-27-12-22-57.png" alt="">
      <h1>Login Page</h1>
@@ -16,7 +16,7 @@
      <h1>Single Product-Page</h1>
     <img src="https://i.postimg.cc/9Mkw2zrj/Screenshot-from-2023-02-27-12-25-10.png" alt="">
      <h1>Cart-Page</h1>
-    <img src="https://i.postimg.cc/wvjDHS2D/Screenshot-from-2023-02-27-12-24-25.png" alt="">
+    <img src="https://i.postimg.cc/qv0dGdvd/Screenshot-from-2023-03-07-14-09-12.png" alt="">
     <h1>Admin-Page</h1>
     <img src="https://i.postimg.cc/SK6rfnmd/Screenshot-from-2023-02-27-13-04-15.png" alt="">
     <h1>Admin Products Page</h1>
