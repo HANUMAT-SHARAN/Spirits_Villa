@@ -540,10 +540,10 @@ const Navbar = (zIndex = 800) => {
 
       <Box className="marronNavbar" style={{ zIndex: "91" }}>
         <Box className="insideMaroonNavbar">
-          <Text>Fashion</Text>
+          <Text onClick={() => nav("/products")}>Fashion</Text>
           <Text onClick={() => nav("/products")}>Beauty & Personal Care</Text>
-          <Text>Home Decor</Text>
-          <Text>Products Near Me</Text>
+          <Text onClick={() => nav("/products")}>Home Decor</Text>
+          <Text onClick={() => nav("/products")}>Products Near Me</Text>
         </Box>
       </Box>
     </>
