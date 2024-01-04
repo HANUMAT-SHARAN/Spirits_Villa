@@ -12,17 +12,17 @@ import { getCartData } from "../Api";
 import { allCartData } from "../Redux/Cart/CartAction";
 import CartItems from "../components/CartItems";
 let arr = [
-  "https://cdn.plotch.io/image/upload/C/V/1671109983_Mi5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671109989_My5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671109994_NC5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671109999_NS5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671110006_Ni5wbmc=.png",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
 ];
 
 let largeArr = [
-  "https://cdn.plotch.io/image/upload/C/V/1671110155_NC5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671110161_Mi5wbmc=.png",
-  "https://cdn.plotch.io/image/upload/C/V/1671110178_SG9tZWRlY29yLnBuZw==.png",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Price-drop-hp-web.jpg",
 ];
 
 const HomePage = () => {
