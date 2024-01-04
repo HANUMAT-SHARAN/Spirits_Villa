@@ -30,18 +30,48 @@ const HomePage = () => {
   const navigate = useNavigate();
   return (
     <div className="home_page" >
-    
+      <Box textAlign="center" >
+        <Heading className="emptyElement" as="h4" size="md" style={{fontFamily:"Poppins"}}>
+          Shop By Category
+        </Heading>
+      </Box>
+      <Crousel arr={arr} />
+      <SoloImageCrousel arr={largeArr} />
+      <CartItems/>
+      <Box className="black_bcg">
+        <img
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          onClick={() => navigate("/products")}
+        />
+        <img
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          onClick={() => navigate("/products")}
+        />
+        <img
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          onClick={() => navigate("/products")}
+        />
+        <img
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          onClick={() => navigate("/products")}
+        />
+        <img
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          onClick={() => navigate("/products")}
+        />
+      </Box>
       <Box className="four_large_img">
+        <img src="https://s.rmjo.in/Price-drop-hp-web.jpg" />
         <img
-          src="https://www.rentomojo.com/public/images/category/appliances-bg/tablets_new.jpg"
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
           onClick={() => navigate("/products")}
         />
         <img
-          src="https://www.rentomojo.com/public/images/category/appliances-bg/smart-devices-v1_new.jpg"
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
           onClick={() => navigate("/products")}
         />
         <img
-          src="https://www.rentomojo.com/public/images/category/package-bg/bedroom-v1_new.jpg"
+          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
           onClick={() => navigate("/products")}
         />
       </Box>
