@@ -38,28 +38,7 @@ const HomePage = () => {
       <Crousel arr={arr} />
       <SoloImageCrousel arr={largeArr} />
       <CartItems/>
-      <Box className="black_bcg">
-        <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
-          onClick={() => navigate("/products")}
-        />
-        <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
-          onClick={() => navigate("/products")}
-        />
-        <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
-          onClick={() => navigate("/products")}
-        />
-        <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
-          onClick={() => navigate("/products")}
-        />
-        <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
-          onClick={() => navigate("/products")}
-        />
-      </Box>
+
       <Box className="four_large_img">
         <img src="https://s.rmjo.in/Price-drop-hp-web.jpg" />
         <img
