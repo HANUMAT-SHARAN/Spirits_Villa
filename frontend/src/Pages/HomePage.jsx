@@ -12,17 +12,17 @@ import { getCartData } from "../Api";
 import { allCartData } from "../Redux/Cart/CartAction";
 import CartItems from "../components/CartItems";
 let arr = [
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://www.rentomojo.com/public/images/category/package-bg/bedroom-v1_new.jpg",
+  "https://www.rentomojo.com/public/images/category/package-bg/living-room-v2.jpg",
+  "https://www.rentomojo.com/public/images/category/appliances-bg/tablets_new.jpg",
+  "https://www.rentomojo.com/public/images/category/appliances-bg/smart-devices-v1_new.jpg",
+  "https://www.rentomojo.com/public/images/category/package-bg/study-room-v1.jpg",
 ];
 
 let largeArr = [
   "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
-  "https://s.rmjo.in/Price-drop-hp-web.jpg",
+  "https://s.rmjo.in/Bed%20HP.jpg",
+  "https://s.rmjo.in/Referral%20Banner%20HP%20web.jpg",
 ];
 
 const HomePage = () => {
