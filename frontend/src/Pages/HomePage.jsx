@@ -40,17 +40,17 @@ const HomePage = () => {
       <CartItems/>
 
       <Box className="four_large_img">
-        <img src="https://s.rmjo.in/Price-drop-hp-web.jpg" />
+        <img src="https://www.rentomojo.com/public/images/category/package-bg/bedroom-v1_new.jpg" />
         <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          src="https://www.rentomojo.com/public/images/category/package-bg/living-room-v2.jpg"
           onClick={() => navigate("/products")}
         />
         <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          src="https://www.rentomojo.com/public/images/category/appliances-bg/smart-devices-v1_new.jpg"
           onClick={() => navigate("/products")}
         />
         <img
-          src="https://s.rmjo.in/Price-drop-hp-web.jpg"
+          src="https://www.rentomojo.com/public/images/category/package-bg/study-room-v1.jpg"
           onClick={() => navigate("/products")}
         />
       </Box>
